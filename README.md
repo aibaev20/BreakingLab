@@ -12,7 +12,7 @@
     <a href="https://cplusplus.com"><img src="https://img.icons8.com/nolan/344/github.png" alt="GitHub logo" width=48px /></a>
     <a href="https://github.com/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ logo" width=48px /></a>
     <a href="https://www.raylib.com"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="Raylib logo" width=48px /></a>
-    <a href="https://magma.com/"><img src="https://wcm-cdn.wacom.com/-/media/images/promos/2021/pro-apps/magma-icon.png?rev=cadc3b8d6ad848b1bfa25a98cb3166ed&hash=F9EF932DDC0D963BA46832BFD5D12B08" alt="Magma logo" width=40px /></a>
+    <a href="https://magma.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZT6rJMPPd_t1m7B8l_GwWWioH-wSqu0yNBQ&s" alt="Magma logo" width=40px /></a>
     <a href="https://discord.com"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord logo" width=48px /></a>
     <a href="https://www.microsoft.com/en/microsoft-teams/log-in"><img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f631495dc43de2be3686648_microsoft-teams-logo-png_480-480.png" alt="MS Teams logo" width=48px /></a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="MS Excel logo" width=48px /></a>
@@ -29,7 +29,7 @@
 
 ## 📥 Installing
 <p> To install our project on your machine you just need to clone it. This can be done by <I>In the CMD</I> : </p>
-<pre>git clone https://github.com/DSVasilev20/LRizz.git</pre>
+<pre>git clone https://github.com/aibaev20/BreakingLab.git</pre>
 
 ## 🧒 Our Team
 
